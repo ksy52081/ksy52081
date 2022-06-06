@@ -1,5 +1,5 @@
 ### Kim Sang Yoon 👋
-- 📌 Tmax Tibero R&D Researcher(2020.12 ~ 2022.01)
+- 📌 Tmax Tibero R&D Researcher(2020.08 ~ )
 - 📌 Korea Advanced Institute of Science and Technology, Dept. Industrial & System Engineering (minor STP, IP)
 <!-- - https://ksy52081.github.io/ -->
 
