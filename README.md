@@ -2,7 +2,7 @@
 - 📌 Hyundai 42dot LLM Researcher & Developer(2025.02 ~ )
 - 📌 Tmax Tibero R&D Researcher(2023.11 ~ 2024.12)
 - 📌 Tmax AnC R&D Researcher(2020.07 ~ 2025.01)
-- 📌 Korea Advanced Institute of Science and Technology, Dept. Industrial & System Engineering (minor STP, IP)
+- 📌 KAIST(Korea Advanced Institute of Science and Technology), Dept. Industrial & System Engineering (minor STP, IP)
 <!-- - https://ksy52081.github.io/ -->
 
 <p>
